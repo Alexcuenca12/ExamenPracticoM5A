@@ -1,0 +1,6 @@
+SQl para insertar los 3 empleados de prueba
+INSERT INTO `empleado` VALUES (1,'Sanchez',40,'Guayas','2023-01-26','Kevin','Profe',630,'24785654'),(2,'Fernandez',20,'Cuenca','2023-01-26','Alexis','Alumno',306,'2476084'),(3,'Lopez',10,'Guayas','2023-01-26','Juan','Profe',150,'24785654');
+
+
+EVIDENCIAS EXAMEN
+https://drive.google.com/drive/folders/1mLIxHPq6mZE98jed-Hud9Zcq5UxonmUG?usp=share_link
